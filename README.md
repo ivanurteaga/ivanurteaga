@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanurteaga
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning api's and how to sing
+- 🌱 I’m currently learning api's and singing irl
 - 📫 How to reach me: ivan.urteaga.26@gmail.com
 
 <!---
